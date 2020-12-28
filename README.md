@@ -487,10 +487,6 @@ MLP (Multi Layer Perceptron) architecture:
         model.add(Dense(5, activation='softmax'))
 ```
 
-### Results:
-
-![observations](https://user-images.githubusercontent.com/29462447/86066095-d501aa80-ba8e-11ea-82d8-4681e20e310e.png)
-
 ### Model Summary
 
 ![Model 5 summary](./images/Model5.png)
