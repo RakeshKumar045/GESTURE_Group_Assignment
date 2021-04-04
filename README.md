@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=blue)
+
+
 # Gesture Recognition Case study IIITB Assignment
 
 Developed by:
